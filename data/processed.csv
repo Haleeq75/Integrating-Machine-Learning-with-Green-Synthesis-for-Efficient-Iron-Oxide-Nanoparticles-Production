@@ -1,0 +1,135 @@
+plant_extract,extract_volume_mL_,precursor,conc_M_,precursor_volume_mL_,pH,time_hr_,methods,additives,particle_size_nm_
+latex from stem of Calotropis procera,40.0,Fe2(SO4)3,0.003,20.0,4.0,0.75,Stirring,60c sittirng,4
+Catharanthus roseus (Madagascar periwinkle),24.0,Fe(CO)₅,0.033,36.0,8.0,0.25,CVD,0.1 M TMEDA,5
+latex from stem of Calotropis procera,20.0,Fe2(SO4)3,0.003,20.0,5.0,0.75,Stirring,60c sittirng,5
+latex from stem of Calotropis procera,30.0,Fe2(SO4)3,0.003,20.0,4.0,0.75,Stirring,60c sittirng,5
+Cissus quadrangularis (Bone Setter),37.0,Fe(OOCH)₂,0.125,47.0,11.5,0.5,Co-Precipitation,0.15M phytic acid,6
+Artemisia annua (Wormwood),27.0,FeCl₃/FeSO₄ (3:1),0.2,37.0,12.0,0.5,Co-Precipitation,1.5M NaOH + 0.2M dextran,7
+Pinus sylvestris (Pine resin),22.0,Fe(CO)₅,0.088,33.0,4.5,0.33,Thermal decomposition,0.5 M oleic acid,8
+Ocimum sanctum (Holy Basil),25.0,Fe(NO₃)₃·9H₂O,0.15,35.0,10.0,1.0,Co-Precipitation,0.3M TEA,8
+Ficus religiosa (Peepal),42.0,FeCl₂·4H₂O,0.09,52.0,11.0,1.0,Co-Precipitation,0.45M NH₄OH + 0.05M PVP,8
+Punica granatum (Pomegranate),15.0,Fe(NO₃)₃·9H₂O,0.18,25.0,11.0,0.75,Co-Precipitation,1M NH₄OH + 0.2M tartrate,10
+Aegle marmelos (Bael Fruit),32.0,FeCl₃ + Fe(CO)₅ (4:1),0.14,48.0,11.2,0.33,Co-Precipitation,0.5M TMAH + 0.2M inulin,10
+Woodfordia fruticosa (Fire Flame Bush),39.0,FeCl₃ + Fe(citrate) (4:1),0.115,49.0,11.0,0.42,Co-Precipitation,0.3M NH₄OH + 0.2M κ-carrageenan,11
+Punica granatum (Pomegranate),20.0,FeCl3,0.01,15.0,5.0,3.0,Sonochemical,1 M NaBH4,12
+Rosa damascena (Rose petals),10.0,FeCl3,0.09,15.0,8.0,0.5,Sonication,0.2 M ascorbic acid,12
+Euphorbia hirta (Asthma weed),19.0,Fe(acac)₂,0.031,28.0,8.2,0.75,Microemulsion,0.1 M AOT + isooctane,12
+Azadirachta indica (Neem),40.0,FeCl₃·6H₂O,0.1,50.0,11.0,1.5,Co-Precipitation,0.5M NH₄OH,12
+Psidium guajava leaves,50.0,FeCl3 and FeCl2,0.001,100.0,11.0,1.0,Stirring,1 M NaOH,12
+Acalypha indica (Indian Nettle),26.0,FeCl₃ + Fe(tartrate) (5:1),0.11,36.0,10.8,1.75,Co-Precipitation,0.45M NH₄HCO₃,13
+Daucus carota (Carrot peel),20.0,FeCl2,0.12,25.0,7.5,0.75,Sonochemical,0.05 M gelatin,14
+Bacopa monnieri (Brahmi),23.0,Fe(CO)₅,0.057,35.0,8.5,0.42,Plasma-enhanced,0.3 M Ar/N₂ gas mixture,14
+Citrus limon (Lemon peel),25.0,FeCl3,0.01,20.0,4.0,0.5,Stirring,0.2 M tartaric acid,15
+Sambucus nigra (Elderberry),35.0,FeCl₃,0.14,45.0,7.5,0.5,Sonication,0.1 M PEG-4000,15
+Andrographis paniculata (King of bitters),29.0,FeCl₃·6H₂O,0.142,44.0,5.5,0.5,Pulsed laser,0.2 M PVP in DMF,16
+Camellia sinensis (Tea),35.0,FeSO₄·7H₂O,0.05,45.0,12.0,0.5,Co-Precipitation,0.4M NaOH + 0.05M PEG,16
+Rosmarinus officinalis (Rosemary),32.0,FeCl₃·6H₂O,0.07,42.0,10.0,1.25,Co-Precipitation,0.4M glycine,16
+Moringa oleifera leaves,20.0,Fe3Cl4,0.6,80.0,3.0,1.5,hydrothermal,0.1 M PVP,16
+Dendrophthoe falcata (Mistletoe),38.0,FeCl₃ + Fe(acac)₃ (1:1),0.075,52.0,10.5,1.25,Co-Precipitation,0.4M NH₄F + 0.1M mannitol,17
+Pergularia daemia (Treasure Flower),44.0,FeSO₄ + Fe(acetylacetonate) (1:1),0.15,54.0,10.2,1.0,Co-Precipitation,0.5M NH₄OH + 0.2M silk fibroin,17
+Camellia sinensis (Green tea),15.0,FeCl2,0.2,25.0,8.0,1.5,Hydrothermal,1 M urea,18
+Nerium oleander (Oleander),55.0,FeCl2,0.25,65.0,8.5,0.25,Electrochemical,0.1 M glucose,18
+Petroselinum crispum (Parsley),15.0,Fe(NO₃)₃,0.12,25.0,6.0,0.5,Sonochemical,0.05 M EDTA,18
+Cinnamomum verum (Cinnamon),48.0,FeSO₄·7H₂O,0.11,58.0,10.0,1.5,Co-Precipitation,0.5M NaOH + 0.15M starch,18
+Acorus calamus (Sweet flag),37.0,Fe(NO₃)₃·9H₂O,0.112,53.0,5.2,2.25,Microwave-plasma,0.15 M β-cyclodextrin,19
+Zingiber officinale (Ginger),20.0,Fe(acac)₃,0.08,30.0,10.0,1.5,Co-Precipitation,0.25M CTAB,19
+Vitis vinifera (Grape seed),60.0,Fe2(SO4)3,0.02,70.0,6.0,0.75,Electrochemical,0.1 M glucose,20
+Vaccinium myrtillus (Bilberry),25.0,Fe(NO3)3,0.11,30.0,5.0,0.75,Microwave-assisted,0.1 M citric acid,20
+Tinospora cordifolia (Guduchi),27.0,FeCl₃·6H₂O,0.129,41.0,5.7,0.67,Photochemical,0.15 M riboflavin,21
+Tribulus terrestris (Puncture Vine),52.0,FeCl₃ + Fe(salen) (2:1),0.135,62.0,9.8,1.25,Co-Precipitation,0.2M tannic acid,21
+Azadirachta indica (Neem),40.0,Fe2(SO4)3,0.01,50.0,5.0,3.0,Stirring,0.1 M citric acid,22
+Lavandula angustifolia (Lavender),15.0,Fe2O3,0.5,20.0,9.0,0.5,Stirring,0.1 M PVP,22
+Linum usitatissimum (Flaxseed),25.0,FeCl₂,0.18,35.0,5.0,0.75,Microemulsion,0.05 M SDS,22
+Tephrosia purpurea (Fish Poison),45.0,Fe(OOCH)₃,0.095,65.0,9.2,1.5,Co-Precipitation,0.25M histidine,22
+Abrus precatorius (Rosary Pea),49.0,Fe(acac)₃ + Fe(urea)₆ (2:1),0.16,59.0,9.6,0.67,Co-Precipitation,0.3M gluconolactone,22
+Houttuynia cordata (Fish mint),41.0,Fe(CO)₅,0.066,58.0,7.5,1.25,Laser ablation,0.3 M CTAB in EG,23
+Mentha spicata (Mint),70.0,FeCl2,0.3,90.0,8.0,1.0,Solvothermal,0.1 M SDS,25
+Salvia officinalis (Sage),50.0,FeSO4,0.03,60.0,7.0,2.0,Stirring,0.1 M EDTA,25
+Prunus dulcis (Almond shell),60.0,Fe₂(SO₄)₃,0.02,70.0,8.0,3.0,Electrochemical,0.1 M H₂O₂,25
+Aloe barbadensis (Aloe),30.0,FeCl₂·4H₂O,0.2,40.0,9.0,2.0,Co-Precipitation,1M NaOH + 0.1M citrate,25
+Citrus limon (Lemon),28.0,FeSO₄/FeCl₃ (1:2),0.1,38.0,9.0,2.0,Co-Precipitation,0.3M phosphate buffer,25
+Mentha spicata (Spearmint),22.0,FeCl₃·6H₂O,0.17,32.0,9.0,2.25,Co-Precipitation,0.3M TMAH,26
+Nelumbo nucifera (Lotus leaf),45.0,Fe(acac)₃,0.042,65.0,7.2,3.0,Solvothermal,0.3 M oleylamine + 0.1 M TOPO,27
+Butea monosperma (Flame of Forest),24.0,FeSO₄ + Fe(phen)₃ (1:1),0.065,34.0,10.6,1.5,Co-Precipitation,0.15M lignosulfonate,27
+Ocimum sanctum (Tulsi),50.0,Fe(NO3)3,0.08,45.0,6.0,1.0,Stirring,0.05 M EDTA,28
+Artemisia annua (Sweet wormwood),30.0,FeCl3,0.03,40.0,6.5,1.25,Microwave-assisted,0.2 M sodium citrate,28
+Althaea officinalis (Marshmallow),30.0,FeCl₂,0.15,40.0,7.0,1.0,Microwave-assisted,0.3 M glucose,28
+Plumeria rubra (Frangipani),19.0,FeSO₄ + FeCl₂ (1:2),0.18,29.0,8.4,2.0,Co-Precipitation,0.35M betaine,28
+Eucalyptus globulus,35.0,FeSO4,0.025,40.0,9.0,0.5,Microwave-assisted,0.2 M CTAB,30
+Taraxacum officinale (Dandelion),20.0,FeCl3,0.18,25.0,6.0,1.25,Hydrolysis,0.05 M acetic acid,30
+Melissa officinalis (Lemon balm),30.0,Fe(NO₃)₃,0.16,40.0,5.5,1.0,Green synthesis,0.05 M gelatin,30
+Centella asiatica (Gotu kola),26.0,Fe(NH₄)₂(SO₄)₂,0.123,38.0,6.3,1.0,Sonoelectrochemical,0.15 M EDTA-Na₂,30
+Mentha piperita (Peppermint),25.0,FeCl₃,0.08,35.0,6.5,1.5,Hydrothermal,0.2 M ascorbic acid,32
+Bryophyllum pinnatum (Air Plant),28.0,Fe(NO₃)₃ + FeC₂O₄ (3:1),0.12,42.0,8.8,2.75,Co-Precipitation,0.3M choline chloride,32
+Jackfruit peel,30.0,FeCl2,0.1,20.0,6.0,1.5,Co-Precipitation,0.1 M PVP,32
+Zingiber officinale (Ginger),55.0,FeSO4,0.1,35.0,6.0,1.5,Co-Precipitation,0.1 M ascorbic acid,33
+Malus domestica (Apple peel),45.0,FeCl3,0.02,55.0,6.5,1.75,Microemulsion,0.05 M oleylamine,33
+Ribes nigrum (Blackcurrant),25.0,FeCl₃,0.09,35.0,6.5,1.5,Hydrothermal,0.2 M sodium citrate,33
+Moringa oleifera (Drumstick),45.0,FeCl₃·6H₂O,0.3,55.0,9.0,2.5,Co-Precipitation,0.6M urea,33
+Camellia japonica (Japanese camellia),28.0,FeCl₃·6H₂O,0.075,42.0,6.8,1.75,Hydrothermal,0.25 M sodium alginate,34
+Piper nigrum (Black Pepper),38.0,Fe(NO₃)₃·9H₂O,0.22,48.0,8.0,2.75,Co-Precipitation,0.35M oleylamine,34
+Carica papaya (Papaya leaves),45.0,FeCl2,0.05,55.0,6.0,2.5,Hydrolysis,0.1 M acetic acid,35
+Capsicum annuum (Bell pepper),40.0,FeCl₃,0.03,50.0,7.0,2.0,Stirring,0.1 M citric acid,35
+saffron,50.0,FeCl2,1.0,50.0,4.0,0.5,Stirring,0.1 M PVP,35
+Boerhavia diffusa (Punarnava),31.0,Fe(NH₄)(SO₄)₂,0.091,46.0,7.0,1.5,Electrospinning,0.4 M PAN/DMF,36
+Sida cordifolia (Heartleaf),27.0,Fe(NO₃)₃ + Fe(ascorbate) (5:1),0.09,37.0,8.6,2.5,Co-Precipitation,0.35M gelatin + 0.1M Ag⁺,36
+Cinnamomum verum (Cinnamon),40.0,FeCl3,0.1,50.0,7.0,3.0,Sonication,0.05 M PEG,38
+Hypericum perforatum (St. John’s Wort),40.0,FeSO4,0.01,50.0,5.0,1.0,Co-Precipitation,0.5 M NH4OH,38
+Rubus fruticosus (Blackberry),50.0,FeCl₃,0.06,60.0,7.5,2.5,Green synthesis,0.1 M tartaric acid,38
+Swertia chirayita (Chiretta),32.0,Fe(NO₃)₃·9H₂O,0.114,49.0,6.8,1.25,Hydrothermal-microwave,0.2 M glucose + 0.1 M citric acid,38
+Eucalyptus globulus,55.0,FeCl₃·6H₂O,0.25,65.0,8.0,3.5,Co-Precipitation,0.5M acetate buffer,39
+Barleria prionitis (Porcupine Flower),23.0,FeCl₃ + Fe(dmg)₂ (3:1),0.085,33.0,8.0,2.25,Co-Precipitation,0.4M ε-polylysine,39
+Adhatoda vasica (Malabar Nut),47.0,Fe(NO₃)₃ + Fe(oxalate) (5:1),0.155,57.0,8.2,2.0,Co-Precipitation,0.4M poly(acrylic acid),39
+Triticum aestivum (Wheatgrass),45.0,FeCl3,0.02,55.0,7.0,2.0,Green synthesis,0.5 M starch,40
+Ziziphus jujuba (Jujube),45.0,Fe2(SO4)3,0.015,55.0,6.0,1.5,Co-Precipitation,0.1 M NH4OH + 0.05 M H2O2,40
+Glycyrrhiza glabra (Licorice),50.0,FeSO₄,0.11,60.0,6.0,1.25,Hydrolysis,0.2 M honey,40
+Gynostemma pentaphyllum (Jiaogulan),51.0,FeCl₂·4H₂O,0.155,72.0,6.0,1.5,Electrochemical,0.2 M chitosan,41
+Brassica oleracea (Cabbage),30.0,FeCl3,0.15,40.0,5.0,1.5,Stirring,0.3 M oxalic acid,42
+Echinacea purpurea (Purple coneflower),35.0,Fe(NO3)3,0.04,45.0,8.0,1.5,Green synthesis,0.3 M fructose,42
+Matricaria chamomilla (Chamomile),35.0,FeSO₄,0.09,45.0,6.0,1.5,Co-precipitation,0.5 M NaOH,42
+Aloe vera leaves,25.0,FeCl3,0.05,30.0,7.0,2.0,Co-Precipitation,0.5 M NaOH,45
+Ulmus rubra (Slippery elm),35.0,FeCl2,0.04,40.0,7.5,1.75,Green synthesis,0.2 M honey,45
+Citrus sinensis (Orange peel),40.0,Fe₂(SO₄)₃,0.04,50.0,5.0,2.0,Sol-gel,0.1 M PVP,45
+Tilia cordata (Linden),40.0,FeSO₄,0.13,50.0,7.0,2.0,Stirring,0.1 M ascorbic acid + 0.05 M PVP,45
+Terminalia chebula (Black myrobalan),35.0,Fe(OOCH)₂,0.078,52.0,6.5,1.8,Spray pyrolysis,0.25 M PEG-6000,45
+Carica papaya (Papaya),33.0,Fe(NO₃)₃·9H₂O,0.04,43.0,8.0,3.25,Co-Precipitation,0.1M oxalate,45
+Hemidesmus indicus (Indian Sarsaparilla),31.0,FeCl₃ + Fe(maltol)₂ (4:1),0.105,41.0,7.2,3.0,Co-Precipitation,0.25M cyclodextrin,45
+Origanum vulgare (Oregano),30.0,Fe(NO3)3,0.06,35.0,7.0,2.25,Solvothermal,0.3 M CTAB,47
+Celosia argentea (Cockscomb),41.0,Fe(acac)₂,0.055,61.0,7.5,3.25,Co-Precipitation,0.15M pectin + 0.1M Ca²⁺,47
+Solanum lycopersicum (Tomato),50.0,FeSO4,0.01,60.0,7.0,2.0,Co-Precipitation,0.1 M glycerol,48
+Thymus vulgaris (Thyme),45.0,FeCl₃,0.07,55.0,7.0,2.0,Solvothermal,0.3 M CTAB,48
+Phyllanthus emblica (Amla),39.0,Fe(OOCH)₃,0.061,57.0,6.2,2.0,Combustion,0.2 M glycine + 0.1 M urea,49
+Mimosa pudica (Sensitive Plant),34.0,Fe(NO₃)₃ + Fe(EDTA) (7:1),0.065,44.0,7.8,3.5,Co-Precipitation,0.2M poly(γ-glutamic acid),49
+Nyctanthes arbor-tristis (Night Jasmine),36.0,FeCl₃ + Fe(8-hydroxyquinoline) (3:1),0.095,46.0,7.6,3.0,Co-Precipitation,0.25M casein,49
+Allium sativum (Garlic),15.0,Fe(NO3)3,0.05,25.0,5.0,2.0,Microemulsion,0.5 M oleic acid,50
+Juglans regia (Walnut shell),60.0,FeCl3 + FeSO4,0.1,70.0,7.0,2.0,Hydrothermal,0.2 M starch,50
+Cymbopogon citratus (Lemongrass),20.0,Fe₂(SO₄)₃,0.08,30.0,8.0,1.75,Microwave-assisted,0.3 M urea,50
+Syzygium aromaticum,15.0,FeCl3,0.001,5.0,6.0,1.0,Co-Precipitation,0.10 M NaOH,50
+Arthrospira platensis,50.0,FeCl3,0.1,50.0,4.0,1.5,Stirring,stirring for 60 min,50
+Curcuma longa (Turmeric),50.0,FeCl₃/FeCl₂ (2:1),0.1,60.0,8.0,3.0,Co-Precipitation,0.2M oleate,51
+Allium sativum (Garlic),18.0,FeCl₃·6H₂O,0.14,28.0,7.0,3.0,Co-Precipitation,0.2M citrate + 0.1M SDS,51
+Ficus carica leaves,40.0,FeCl3,0.01,100.0,11.0,1.0,Stirring,stirring for 60 min,51
+Morus alba (White mulberry),48.0,Fe(acac)₃,0.054,69.0,7.8,2.75,Supercritical fluid,0.5 M SC-CO₂ + ethanol,52
+Berberis aristata (Tree turmeric),44.0,Fe(acac)₃,0.048,63.0,7.3,2.25,Sol-gel,0.35 M TEOS + 0.15 M HNO₃,54
+Ginkgo biloba,10.0,FeCl3 + FeCl2,0.15,60.0,7.0,2.5,Co-Precipitation,0.3 M NH4OH,55
+Withania somnifera (Ashwagandha),60.0,FeCl3,0.05,70.0,8.0,2.5,Sol-gel,0.3 M urea,55
+Allium cepa (Onion peel),20.0,FeCl₃ + FeCl₂,0.1,30.0,5.5,1.0,Combustion,0.2 M glycine,55
+Vitex negundo (Chinese Chaste),21.0,Fe(acac)₃ + Fe(glycinate) (3:1),0.07,31.0,7.4,3.75,Co-Precipitation,0.45M alginate + 0.15M Sr²⁺,56
+Madhuca indica leaves,90.0,FeSO4,0.025,10.0,3.0,24.0,Co-Precipitation,0.1 M PVP,56
+Plumbago zeylanica (Ceylon leadwort),43.0,Fe(acac)₂,0.107,61.0,5.0,3.5,Radiolysis,0.3 M isopropanol,58
+Helianthus annuus (Sunflower),20.0,FeCl3,0.2,30.0,8.0,1.0,Ball milling,0.05 M PVA,60
+Passiflora edulis (Passionfruit),40.0,FeCl3,0.07,50.0,5.5,1.5,Ball milling,0.1 M PEG-6000,60
+Avena sativa (Oat straw),30.0,Fe(NO₃)₃,0.05,40.0,6.5,1.5,Ball milling,0.1 M oleic acid,60
+Hibiscus flower,10.0,FeCl3,0.1,90.0,3.0,1.5,Co-Precipitation,0.1 M PVP,60
+Saccharum arundinaceum,70.0,FeCl3,0.01,10.0,10.0,0.5,Stirring,200 rpm,60
+Psidium guajava (Guava),52.0,FeCl₃·6H₂O,0.06,62.0,7.0,4.0,Co-Precipitation,0.25M borate buffer,61
+Tussilago farfara (Coltsfoot),33.0,Fe(OOCH)₃,0.097,47.0,5.8,2.5,Flame spray pyrolysis,0.4 M PVA,63
+Syzygium aromaticum (Clove),60.0,FeCl₂·4H₂O,0.12,70.0,7.0,4.0,Co-Precipitation,0.15M EDTA + 0.1M glucose,64
+Rosmarinus officinalis (Rosemary),30.0,Fe2O3,0.5,80.0,10.0,0.75,Combustion,0.1 M PVP,65
+Foeniculum vulgare (Fennel),25.0,FeCl3,0.15,30.0,6.0,3.0,Combustion,0.1 M glycine,65
+Juglans nigra (Black walnut),55.0,FeCl₃,0.04,65.0,6.0,2.5,Co-precipitation,0.5 M NH₄OH + 0.1 M H₂O₂,65
+Cocos nucifera (Coconut husk),50.0,Fe2(SO4)3,0.08,60.0,5.5,2.5,Sol-gel,0.1 M HCl,70
+Phaseolus vulgaris (Green bean),45.0,FeCl₂,0.02,55.0,7.0,3.0,Sol-gel,0.1 M acetic acid,70
+Bauhinia tomentosa leaves,50.0,FeCl3,0.01,50.0,3.0,1.5,Stirring,wash with water and acetone,70
+Curcuma longa (Turmeric),60.0,FeCl3,0.1,70.0,6.0,4.0,Sol-gel,Ethanol wash,75
+Quercus robur (Oak bark),70.0,Fe2(SO4)3,0.005,80.0,6.0,3.5,Co-Precipitation,0.5 M NaOH + 0.1 M H2O2,75
