@@ -1,12 +1,10 @@
-# preprocessing.py
-
 # Step 1: Import Required Libraries
 import pandas as pd
 from sklearn.impute import SimpleImputer
 
-#C:\Users\halim\Downloads\Haleeq\Project\Github\Integrating-Machine-Learning-with-Green-Synthesis-for-Efficient-Iron-Oxide-Nanoparticles-Production\Main\data
+#C:\Users\halim\Downloads\Haleeq\Project\Github\prediciton\test_1
 # Step 2: Load Dataset
-df = pd.read_csv("c:/Users/halim/Downloads/Haleeq/Project/Github/Integrating-Machine-Learning-with-Green-Synthesis-for-Efficient-Iron-Oxide-Nanoparticles-Production/Main/data/raw.csv")
+df = pd.read_csv("c:/Users/halim/Downloads/Haleeq/Project/Github/prediciton/test_1/data/raw.csv")
 
 # Step 3: Clean Column Names
 df.columns = df.columns.str.replace('[^A-Za-z0-9_]+', '_', regex=True)
@@ -29,6 +27,6 @@ imputer_cat = SimpleImputer(strategy='most_frequent')
 df[cat_cols] = imputer_cat.fit_transform(df[cat_cols])
 
 # Step 7: Save Processed Data
-df.to_csv("c:/Users/halim/Downloads/Haleeq/Project/Github/Integrating-Machine-Learning-with-Green-Synthesis-for-Efficient-Iron-Oxide-Nanoparticles-Production/Main/data/processed.csv", index=False)
+df.to_csv("c:/Users/halim/Downloads/Haleeq/Project/Github/prediciton/test_1/data/processed.csv", index=False)
 
-print("✅ Preprocessing complete. Processed file saved to 'data/Processed.csv'")
+print(" Preprocessing complete. Processed file saved to 'data/Processed.csv'")
