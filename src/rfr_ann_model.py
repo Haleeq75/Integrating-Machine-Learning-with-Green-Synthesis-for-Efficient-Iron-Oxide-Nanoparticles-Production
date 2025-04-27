@@ -11,7 +11,7 @@ import tensorflow as tf
 import os
 
 # Step 2: Load Processed Data
-df = pd.read_csv("c:/Users/halim/Downloads/Haleeq/Project/Github/prediciton/Main/data/Processed.csv")
+df = pd.read_csv("c:/Users/halim/Downloads/Haleeq/Project/Github/prediciton/Main/data/processed.csv")
 
 # Step 3: Separate Features and Target
 target = 'particle_size_nm_'  # update if different
