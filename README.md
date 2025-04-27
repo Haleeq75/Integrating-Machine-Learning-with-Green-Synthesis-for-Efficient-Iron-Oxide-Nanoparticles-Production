@@ -24,20 +24,6 @@ This repository presents a machine learning-based framework to optimize the gree
 
 Given a desired particle size, the trained ANN model is embedded in an optimization routine to reverse-engineer the input features (conditions) that would yield that particle size.
 
-## Repository Structure
-
-data/
-    green_synthesis_data.csv
-notebooks/
-    main_pipeline.ipynb
-src/
-    model_pipeline.py
-results/
-    plots/
-README.md
-requirements.txt
-LICENSE
-
 ## Dependencies
 
 Install all requirements using:
